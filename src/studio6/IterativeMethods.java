@@ -19,6 +19,7 @@ public class IterativeMethods {
 		}
 		return sum;
 	}
+	
 
 	/**
 	 * @param p first operand
@@ -51,6 +52,7 @@ public class IterativeMethods {
 				reversed[mirrorIndex] = array[index];
 			}
 		}
+		
 		return reversed;
 	}
 }
